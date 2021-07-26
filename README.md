@@ -46,3 +46,5 @@ If you have state that's important to retain within a component, consider creati
 import { writable } from 'svelte/store'
 export default writable(0)
 ```
+## 效果图
+![image](https://github.com/menglingyu/sveltejs-todolist/blob/master/src/assets/snapshot1.png)
